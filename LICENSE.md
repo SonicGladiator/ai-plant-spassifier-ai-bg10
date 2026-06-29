@@ -1,4 +1,4 @@
-# 
+# Turbo AI Plant Species Classifier scripts. Com IA de borda e detecção de objetos — otimizado para máximo desempenho.
 
 
 
